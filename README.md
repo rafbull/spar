@@ -11,13 +11,13 @@
 - `UICollectionViewDiffableDataSource`
 - Min iOS - 14
 
-![Simulator Screen Recording - iPhone 13 Pro - 2024-02-02 at 19.50.42.mp4](Screenshots/Simulator Screen Recording - iPhone 13 Pro - 2024-02-02 at 19.50.42.mp4)
+![SimulatorScreenRecording_iPhone13Pro_01.mp4](Screenshots/SimulatorScreenRecording_iPhone13Pro_01.mp4)
 
-![Simulator Screen Shot - iPhone 13 Pro - 2024-02-02 at 19.49.19.png | 200](Screenshots/Simulator Screen Shot - iPhone 13 Pro - 2024-02-02 at 19.49.19.png)
+![SimulatorScreenShot_iPhone13Pro_01.png | 200](Screenshots/SimulatorScreenShot_iPhone13Pro_01.png)
 
-![Simulator Screen Shot - iPhone 13 Pro - 2024-02-02 at 19.49.50.png | 200](Screenshots/Simulator Screen Shot - iPhone 13 Pro - 2024-02-02 at 19.49.50.png)
+![SimulatorScreenShot_iPhone13Pro_02.png | 200](Screenshots/SimulatorScreenShot_iPhone13Pro_02.png)
 
-![Simulator Screen Shot - iPhone 13 Pro - 2024-02-02 at 19.49.59.png | 200](Screenshots/Simulator Screen Shot - iPhone 13 Pro - 2024-02-02 at 19.49.59.png)
+![SimulatorScreenShot_iPhone13Pro_03.png | 200](SimulatorScreenShot_iPhone13Pro_03.png)
 
 #### Что можно было бы улучшить (Тех. долг):
 - Разбить  таблицу на несколько ячеек, а не на одну массивную `ItemTableViewCell`
