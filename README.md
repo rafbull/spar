@@ -11,7 +11,9 @@
 - `UICollectionViewDiffableDataSource`
 - Min iOS - 14
 
-| ![SimulatorScreenRecording_iPhone13Pro_01.mp4](Screenshots/SimulatorScreenRecording_iPhone13Pro_01.mp4) | ![SimulatorScreenShot_iPhone13Pro_01.png | 200](Screenshots/SimulatorScreenShot_iPhone13Pro_01.png)
+![SimulatorScreenRecording_iPhone13Pro_01.mp4](Screenshots/SimulatorScreenRecording_iPhone13Pro_01.mp4)
+
+| ![SimulatorScreenShot_iPhone13Pro_01.png | 200](Screenshots/SimulatorScreenShot_iPhone13Pro_01.png) |  |
 | --- | --- |
 | ![SimulatorScreenShot_iPhone13Pro_02.png | 200](Screenshots/SimulatorScreenShot_iPhone13Pro_02.png) | ![SimulatorScreenShot_iPhone13Pro_03.png | 200](SimulatorScreenShot_iPhone13Pro_03.png) |
 
