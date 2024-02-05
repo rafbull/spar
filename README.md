@@ -2,7 +2,7 @@
 
 ## Экран карточки товара приложения **"Мой Spar"**
 
-#### Ссылка на само тестовое задание в  [тут](https://docs.google.com/document/d/16xVNiX6Ict942xLPSoHUME0XbQnmIySGyNbykHsKD8I/edit?usp=sharing)
+#### Ссылка на само тестовое задание [в google docs](https://docs.google.com/document/d/16xVNiX6Ict942xLPSoHUME0XbQnmIySGyNbykHsKD8I/edit?usp=sharing)
 
 Экран сделан на **UIKit** по архитектуре **MVP** с использованием паттерна **Builder**. Получение данных реализовано через моковую модель, вместо сетевого слоя.
 #### Использованный стек:
